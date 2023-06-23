@@ -22,10 +22,11 @@ The Demo contains:
 Health, Hunger and Fun meters
 
 Night and Day time modes
----------------------------------------------------------------------
+
 
 
 Night Time:
+---------------------------------------------------------------------
 
 Feed Option - player can feed their hedgehog using a variety of food. Cost of food scaled with the hunger it restores
 
@@ -36,10 +37,11 @@ Worm Hunt - player can run around collecting coins, worms that restore their hun
 Leafpile Rummage - player can use 1 gold to get a random item to decorate their garden with.
 
 Vet Option - player can restore the health, hunger and fun bars of the hedgehog, for gold. 
----------------------------------------------------------------------
+
 
 
 Daytime: 
+---------------------------------------------------------------------
 
 Work Option
 
