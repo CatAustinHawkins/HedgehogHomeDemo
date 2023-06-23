@@ -4,9 +4,10 @@ GAME LINK - https://cat-austin-hawkins.itch.io/hedgehog-home
 ---------------------------------------------------------------------
 
 Virtual Pet Simulator - Educational 
+---------------------------------------------------------------------
 
 Browser / Windows / Mac / Linux
----------------------------------------------------------------------
+
 
 Hedgehog Home is a educational virtual pet game, about looking after a European Hedgehog!
 - Answer questions to learn more about Hedgehogs!
