@@ -4,6 +4,7 @@ GAME LINK - https://cat-austin-hawkins.itch.io/hedgehog-home
 ---------------------------------------------------------------------
 
 Virtual Pet Simulator - Educational 
+
 Browser / Windows / Mac / Linux
 ---------------------------------------------------------------------
 
