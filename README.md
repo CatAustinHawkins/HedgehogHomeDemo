@@ -1,16 +1,18 @@
 # HedgehogHomeDemo
 
 GAME LINK - https://cat-austin-hawkins.itch.io/hedgehog-home 
+---------------------------------------------------------------------
 
 Virtual Pet Simulator - Educational 
 Browser / Windows / Mac / Linux
+---------------------------------------------------------------------
 
 Hedgehog Home is a educational virtual pet game, about looking after a European Hedgehog!
 - Answer questions to learn more about Hedgehogs!
 - Play mini-games with your hedgehog!
 - Unlock decorations and customise the area!
 
-
+---------------------------------------------------------------------
 
 In the summer of 2022 I worked on the demo for Hedgehog Home, and released it for browser on the 18th of September 2022. 
 
